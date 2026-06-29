@@ -1,6 +1,6 @@
-# OS Scribe — Releases
+# OS June — Releases
 
-Public distribution point for **OS Scribe** (macOS).
+Public distribution point for **OS June** (macOS).
 
 This repository holds the signed, notarized build artifacts and the auto-update
 manifest (`latest.json`) consumed by the in-app updater. **Build outputs only —
